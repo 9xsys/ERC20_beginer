@@ -1,0 +1,26 @@
+{
+  "name": "erc20_beginer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9xsys/ERC20_beginer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9xsys/ERC20_beginer/issues"
+  },
+  "homepage": "https://github.com/9xsys/ERC20_beginer#readme",
+  "description": "",
+  "devDependencies": {
+    "hardhat": "^2.24.0"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
